@@ -1,0 +1,15 @@
+/* Стилі всіх кнопок по дефолту*/
+.btn {
+    display: block;
+    padding: 10px;
+    border-radius: 10px;
+    background: black;
+    color: white;  
+    transition: all 0.2s ease;
+}
+
+.btn:hover {
+    cursor: pointer;
+    background: white;
+    color: black;
+}

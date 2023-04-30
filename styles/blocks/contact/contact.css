@@ -1,0 +1,15 @@
+.contact {
+    border: 1px dotted black;
+    padding: 10px;
+    margin: 30px;
+}
+
+.contact .input {
+    display: block;
+    margin: 10px 0;
+}
+
+.contact .message {
+    height: 100px;
+}
+

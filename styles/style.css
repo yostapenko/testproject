@@ -1,0 +1,15 @@
+
+/*Lib*/
+@import url("./lib/button/button.css");
+@import url("./lib/input/input.css");
+@import url("./lib/colors.css");
+@import url("./lib/fonts.css");
+
+/*Blocks*/
+@import url("./blocks/search/search.css");
+@import url("./blocks/contact/contact.css");
+
+
+body {
+    background: lightblue;
+}

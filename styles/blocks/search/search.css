@@ -1,0 +1,10 @@
+.search {
+    border: 1px dotted black;
+    padding: 10px;
+    margin: 30px;
+}
+
+.search .btn {
+    display: inline-block;
+    margin-left: 10px;
+}

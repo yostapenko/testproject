@@ -1,0 +1,8 @@
+/* Стилі всіх інпутів по дефолту*/
+
+.input {
+    display: inline-block;
+    width: 300px;
+    padding: 10px;
+    border: 1px solid blue;
+}
